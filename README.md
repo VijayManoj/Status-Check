@@ -2,6 +2,7 @@
 
 This Project is very useful to college students and faculty who are working, studying in a college (or) an university. Since, University is a place where lot of people as students and teachers as faculty are doing thier jobs. There can be thousand's of students and hundreds of faculty. 
 
+This Project is done with the Android Studio.
 
 This Project Softwares are:
 Front End : XML
